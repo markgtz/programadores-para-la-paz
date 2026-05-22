@@ -1,1 +1,10 @@
+print "Pregunta 1:"
+print "Respuesta: B"
 
+
+print "Pregunta 2:"
+print " Respuesta: C"
+
+
+print " Pregunta 3:"
+print "Respuesta:B
