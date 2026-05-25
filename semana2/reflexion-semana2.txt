@@ -1,0 +1,9 @@
+Pienso que es importante para un desarrollador manejarla terminal para
+navegar y organizar archivos dentro de un proyecto, ya que le permite
+estructurar su trabajo de forma organizada sin depender de entornos visuales
+que  muchas veces son diferentes o son propensos al cambio constante, además
+aporta eficiencia en el trabajo, evitando distracciones y permitiendole automatizar tareas.
+
+Aunado a ello, sin  el uso de la terminal para esto, el desarrollador dificilmente
+podrá comprender el proceso interno que se surte para completar las tareas que visualmente se realizan y privará
+su trabajo de herramientas muy valiosas que se ejecutan en la terminal.
