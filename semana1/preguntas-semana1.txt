@@ -1,10 +1,10 @@
-print "Pregunta 1:"
-print "Respuesta: B"
+Pregunta 1
+Respuesta: B
 
 
-print "Pregunta 2:"
-print " Respuesta: C"
+Pregunta 2
+Respuesta: C
 
 
-print " Pregunta 3:"
-print "Respuesta:B
+Pregunta 3
+Respuesta:B

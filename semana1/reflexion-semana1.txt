@@ -1,1 +1,16 @@
+Me parece que se relacionan en el sentido que las 3 pretenden abarcar
+una perspectiva de responsabilidad colectiva: El uso responsable de
+la información en internet, en el sentido que lo que compartimos
+puede influir en los demás; la participación ciudadana, por  la
+construccion de mejores politicas a partir de la pluralidad y
+diversidad de aportes y, finalmente, de la organización del
+trabajo técnico con herramientas como Git, por permitir articular
+el trabajo con otros usuarios y la posibilidad de registrar cambios de
+construccion progresiva.
 
+Como foco principal, sería ideal trasladar las caracteristicas de
+trazabilidad de Git a la participacion ciudadana y el uso responsable
+de información en internet. Pues resulta de especial relevancia
+entender en un evento respecto de una noticia o respecto de una
+iniciativa ciudadana: Quien lo hizo, qué se hizo, cuando se hizo,
+como se hizo y por qué se hizo.
