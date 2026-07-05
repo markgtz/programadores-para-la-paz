@@ -1,0 +1,10 @@
+Esta ruta POST sirve para recibir datos que una persona envía desde el
+ navegador o desde otra parte de la aplicación. En este caso, toma el
+  mensaje enviado en req.body.mensaje y responde con un JSON que
+   confirma que el reporte fue recibido.
+
+En una aplicación comunitaria, podría usarse para enviar alertas,
+reportes o solicitudes de ayuda de forma ordenada. Por ejemplo,
+una persona podría informar una novedad del barrio y el sistema
+la almacenaría o la mostraría de manera clara para que otros puedan
+revisarla.

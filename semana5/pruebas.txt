@@ -1,0 +1,3 @@
+En la ruta http://localhost:3000 aparece el mensaje principal del servidor indicando que está funcionando correctamente.
+En la ruta http://localhost:3000/saludo el servidor responde con un saludo predefinido.
+En la ruta http://localhost:3000/mensaje/juan el servidor muestra un mensaje personalizado usando el valor juan que se envía en la URL.
