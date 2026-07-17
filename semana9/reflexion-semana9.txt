@@ -1,0 +1,14 @@
+Es importante porque una plataforma comunitaria depende de que el 
+servidor esté disponible, responda rápido y mantenga los datos
+protegidos. Si el servidor falla o es atacado, la comunidad puede
+perder acceso, la información puede alterarse y se rompe la confianza
+en el proceso participativo.
+
+La estabilidad asegura continuidad del servicio, y la seguridad protege
+credenciales, datos y registros frente a accesos no autorizados.
+Además, monitorear y mantener el servidor ayuda a detectar errores
+antes de que afecten a los usuarios.
+
+En plataformas que usan comunidades, esto también es clave para
+ conservar la transparencia, evitar manipulaciones y permitir que la
+  participación ocurra sin interrupciones.

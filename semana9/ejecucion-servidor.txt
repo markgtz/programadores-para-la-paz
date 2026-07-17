@@ -1,0 +1,11 @@
+Cuando ejecutas node server.js, se inicia la aplicación y el servidor comienza a escuchar en el puerto configurado.
+
+En la terminal aparece un mensaje indicando que el servidor está corriendo correctamente.
+
+Cuando visitas la ruta /estado, el servidor responde con un mensaje en formato JSON que confirma que el servicio está funcionando.
+
+Ejemplo de respuesta de /estado:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
